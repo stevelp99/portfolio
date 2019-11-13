@@ -201,8 +201,8 @@ a {
       top: 0;
       left: 0;
       height: 2px;
-      width: 50px;
-      background: white;
+      width: 100px;
+      background: #353434;
       /* background: #31ccd1; */
       z-index: -1; }
   .section-heading.text-center h2:before {
@@ -634,4 +634,17 @@ body{
 }
 .align{
   padding-left: 100px;
+}
+.imageBorder{
+  border: 3px black solid;
+  padding: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 50%;
+}
+.logo-temp{
+  width:90px;
+  height:auto;
 }
