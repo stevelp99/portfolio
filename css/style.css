@@ -660,3 +660,9 @@ body{
   margin-right: auto;
   width:200px;
 }
+.img2{
+  border: 3px black solid;
+  padding: 0;
+  width:650px;
+  height:auto;
+}
