@@ -636,15 +636,27 @@ body{
   padding-left: 100px;
 }
 .imageBorder{
-  border: 3px black solid;
+  /* border: 3px black solid; */
   padding: 0;
-  display: block;
+  
+  display: flex;
+  justify-content: space-evenly;
+  
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10px;
-  width: 50%;
+  width: 59%;
 }
 .logo-temp{
-  width:90px;
+  width:40px;
   height:auto;
+}
+.img{
+  border: 3px black solid;
+  padding: 0;
+  display:flex;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+  width:200px;
 }
