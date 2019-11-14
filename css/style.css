@@ -652,7 +652,7 @@ body{
   height:auto;
 }
 .img{
-  border: 3px black solid;
+  border: 2px black solid;
   padding: 0;
   display:flex;
   justify-content: space-around;
