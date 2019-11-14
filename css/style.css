@@ -645,7 +645,7 @@ body{
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10px;
-  width: 59%;
+  /* width: 59%; */
 }
 .logo-temp{
   width:40px;
@@ -663,6 +663,5 @@ body{
 .img2{
   border: 3px black solid;
   padding: 0;
-  width:650px;
-  height:auto;
+  
 }
