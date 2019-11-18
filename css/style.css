@@ -671,3 +671,7 @@ body{
     height:auto
   }
 }
+.spacer{
+  display:flex;
+  flex-direction: column;
+}
