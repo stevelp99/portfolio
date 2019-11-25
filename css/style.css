@@ -658,7 +658,7 @@ body{
   justify-content: space-around;
   margin-left: auto;
   margin-right: auto;
-  width:200px;
+  width:150px;
 }
 .img2{
   border: 3px black solid;
@@ -667,7 +667,7 @@ body{
 }
 @media only screen and (max-width: 600px) {
   .img3 {
-    width:200px;
+    width:150px;
     height:auto
   }
 }
